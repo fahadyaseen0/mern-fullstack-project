@@ -33,7 +33,7 @@ This will start:
 - Backend API on port 5001
 - Frontend React app on port 3000
 
-Visit http://localhost:3000 to access the application.
+
 
 ### Docker Services
 
